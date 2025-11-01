@@ -1,0 +1,10 @@
+datasets
+google
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+torch
+transformers
+wordcloud
