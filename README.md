@@ -1,4 +1,6 @@
-![Text Mining Project Banner](assets/banner.png)
+<p align="center">
+  <img src="banner.png" alt="Text Mining Project Banner" width="80%">
+</p>
 
 # Text Mining — Professional Mentions Classification
 
