@@ -1,3 +1,5 @@
+![Text Mining Project Banner](assets/banner.png)
+
 # Text Mining — Professional Mentions Classification
 
 This repository contains a Jupyter notebook for classifying professional mentions in social media text using **HuggingFace Transformers**.
