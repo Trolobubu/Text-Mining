@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Text Mining — Professional Mentions Classification using NLP" width="100%">
+  <img src="banner.png" alt="Text Mining Project" width="90%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </p>
 
 
