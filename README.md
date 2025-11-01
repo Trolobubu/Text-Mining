@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.png" alt="Text Mining Project Banner" width="80%">
+  <img src="banner.png" alt="Text Mining — Professional Mentions Classification using NLP" width="100%">
 </p>
+
 
 # Text Mining — Professional Mentions Classification
 
